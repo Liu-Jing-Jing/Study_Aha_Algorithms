@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5B1DD7AA-06D6-414F-8E96-E3F9A229B37C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Study-AhaAlgorithms</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C08E8E9A3C9A8A3FB85D937E2278E8CCE57D095E</key>
+		<string>https://github.com/Liu-Jing-Jing/Study_Aha_Algorithms.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Study-AhaAlgorithms/Study-AhaAlgorithms.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C08E8E9A3C9A8A3FB85D937E2278E8CCE57D095E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Liu-Jing-Jing/Study_Aha_Algorithms.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C08E8E9A3C9A8A3FB85D937E2278E8CCE57D095E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C08E8E9A3C9A8A3FB85D937E2278E8CCE57D095E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Study_Aha_Algorithms</string>
+		</dict>
+	</array>
+</dict>
+</plist>
